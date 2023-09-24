@@ -22,8 +22,8 @@ title: Havok's Corner
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Tabletop gaming, writing, software development, design, hiking
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://havok2905.github.io/havoks-corner/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  havok2905
 
