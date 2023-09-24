@@ -1,6 +1,6 @@
 ---
 ---
-$baseurl: "{{ site.baseurl }}";
+$baseurl: "{{ site.url }}";
 @import "reset";
 @import "main";
 @import "highlight";
