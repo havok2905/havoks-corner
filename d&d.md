@@ -8,8 +8,8 @@ permalink: /d&d/
   {% for page in site.pages %}
     {% if page.parent == 'd&d' %}
       <li class="card">
-        <a class="page-link" href="{{ site.baseurl }}{{ page.url }}">
-          <img src="{{page.card_image_url}}">
+        <a class="page-link" href="{{ page.url | relative_url }}">
+          <img src="{{page.card_image_url | relative_url}}">
           <span>
             {{ page.title }}
           </span>
