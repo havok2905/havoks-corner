@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Hello, I'm Havok!
+permalink: /
 ---
-
-# Hello, I'm Havok!
 
 I'm a dungeon master and professional software engineer. Creating things is my passion, so I figured I would throw this site up to start sharing some of it.
