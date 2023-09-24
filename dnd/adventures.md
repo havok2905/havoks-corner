@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adventures
-permalink: /d&d/adventures
+permalink: /d&d/adventures/
 parent: d&d
 card_image_url: /assets/img/tiles/adventures-tile.png
 ---

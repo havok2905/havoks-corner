@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marshmallow Capsule
-permalink: /d&d/magic-items/marshmallow-capsule
+permalink: /d&d/magic-items/marshmallow-capsule/
 parent: d&d/magic-items
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Church of Nessus
-permalink: /d&d/adventures/the-church-of-nessus
+permalink: /d&d/adventures/the-church-of-nessus/
 parent: d&d/adventures
 setting: Ravenloft
 ---

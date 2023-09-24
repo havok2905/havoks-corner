@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Races
-permalink: /d&d/races
+permalink: /d&d/races/
 parent: d&d
 card_image_url: /assets/img/tiles/races-tile.png
 ---

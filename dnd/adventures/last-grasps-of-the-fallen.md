@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Last Grasps of the Fallen
-permalink: /d&d/adventures/last-grasps-of-the-fallen
+permalink: /d&d/adventures/last-grasps-of-the-fallen/
 parent: d&d/adventures
 setting: Runoa
 ---

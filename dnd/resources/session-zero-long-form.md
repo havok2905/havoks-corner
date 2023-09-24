@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Session Zero - Long Form
-permalink: /d&d/resources/session-zero-long-form
+permalink: /d&d/resources/session-zero-long-form/
 parent: d&d/resources
 ---
 

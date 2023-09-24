@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Desert Scorpions
-permalink: /d&d/creatures/desert-scorpions
+permalink: /d&d/creatures/desert-scorpions/
 parent: d&d/creatures
 ---
 

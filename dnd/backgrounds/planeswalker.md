@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Planeswalker
-permalink: /d&d/backgrounds/planeswalker
+permalink: /d&d/backgrounds/planeswalker/
 parent: d&d/backgrounds
 ---
 

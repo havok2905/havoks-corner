@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Halflings
-permalink: /d&d/races/halflings
+permalink: /d&d/races/halflings/
 parent: d&d/races
 ---
 

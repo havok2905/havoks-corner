@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Session Zero - Short Form
-permalink: /d&d/resources/session-zero-short-form
+permalink: /d&d/resources/session-zero-short-form/
 parent: d&d/resources
 ---
 

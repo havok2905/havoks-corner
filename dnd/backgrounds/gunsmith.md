@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gunsmith
-permalink: /d&d/backgrounds/gunsmith
+permalink: /d&d/backgrounds/gunsmith/
 parent: d&d/backgrounds
 ---
 

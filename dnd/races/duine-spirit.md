@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Duine Spirit
-permalink: /d&d/races/duine-spirit
+permalink: /d&d/races/duine-spirit/
 parent: d&d/races
 ---
 

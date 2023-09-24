@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Magic Items
-permalink: /d&d/magic-items
+permalink: /d&d/magic-items/
 parent: d&d
 card_image_url: /assets/img/tiles/magic-items-tile.png
 ---

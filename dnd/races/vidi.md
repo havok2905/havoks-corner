@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vidi
-permalink: /d&d/races/vidi
+permalink: /d&d/races/vidi/
 parent: d&d/races
 ---
 

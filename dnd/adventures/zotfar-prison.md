@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zotfar Prison
-permalink: /d&d/adventures/zotfar-prison
+permalink: /d&d/adventures/zotfar-prison/
 parent: d&d/adventures
 setting: Runoa
 ---

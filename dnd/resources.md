@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: /d&d/resources
+permalink: /d&d/resources/
 parent: d&d
 card_image_url: /assets/img/tiles/resources-tile.png
 ---

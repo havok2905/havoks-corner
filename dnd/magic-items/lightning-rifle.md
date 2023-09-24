@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lightning Rifle
-permalink: /d&d/magic-items/lightning-rifle
+permalink: /d&d/magic-items/lightning-rifle/
 parent: d&d/magic-items
 ---
 

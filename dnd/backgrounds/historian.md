@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Historian
-permalink: /d&d/backgrounds/historian
+permalink: /d&d/backgrounds/historian/
 parent: d&d/backgrounds
 ---
 

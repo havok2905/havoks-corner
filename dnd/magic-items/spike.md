@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spike
-permalink: /d&d/magic-items/spike
+permalink: /d&d/magic-items/spike/
 parent: d&d/magic-items
 ---
 

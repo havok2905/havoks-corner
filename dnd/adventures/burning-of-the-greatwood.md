@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Burning of the Greatwood
-permalink: /d&d/adventures/burning-of-the-greatwood
+permalink: /d&d/adventures/burning-of-the-greatwood/
 parent: d&d/adventures
 setting: FFXIV
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Serpentes
-permalink: /d&d/races/serpentes
+permalink: /d&d/races/serpentes/
 parent: d&d/races
 ---
 

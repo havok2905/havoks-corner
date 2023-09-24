@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cartridge Blade
-permalink: /d&d/magic-items/cartridge-blade
+permalink: /d&d/magic-items/cartridge-blade/
 parent: d&d/magic-items
 ---
 

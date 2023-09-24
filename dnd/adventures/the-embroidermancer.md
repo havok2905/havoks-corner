@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Embroidermancer
-permalink: /d&d/adventures/the-embroidermancer
+permalink: /d&d/adventures/the-embroidermancer/
 parent: d&d/adventures
 setting: Forgotten Realms
 ---

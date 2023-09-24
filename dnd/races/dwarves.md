@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dwarves
-permalink: /d&d/races/dwarves
+permalink: /d&d/races/dwarves/
 parent: d&d/races
 ---
 

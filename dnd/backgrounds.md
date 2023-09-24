@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Backgrounds
-permalink: /d&d/backgrounds
+permalink: /d&d/backgrounds/
 parent: d&d
 card_image_url: /assets/img/tiles/backgrounds-tile.png
 ---

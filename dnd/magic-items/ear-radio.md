@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ear Radio
-permalink: /d&d/magic-items/ear-radio
+permalink: /d&d/magic-items/ear-radio/
 parent: d&d/magic-items
 ---
 

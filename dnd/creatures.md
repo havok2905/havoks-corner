@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creatures
-permalink: /d&d/creatures
+permalink: /d&d/creatures/
 parent: d&d
 card_image_url: /assets/img/tiles/creatures-tile.png
 ---
