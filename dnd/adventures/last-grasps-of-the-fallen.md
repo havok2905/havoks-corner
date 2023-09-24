@@ -134,7 +134,7 @@ Roll on the random encounter table periodically as the players explore the under
 
 ## Arrival in Cobble
 
-![Cobble Handout](/assets/img/handouts/last-grasp-of-the-fallen-cobble-handout.png)
+![Cobble Handout]({{'/assets/img/handouts/last-grasp-of-the-fallen-cobble-handout.png' | relative_url }})
 
 **Village Leader Oseanas Adalyth ( High Elf; He/Him )** was born in The Pipes and has never seen the light of day. Having lived in The Pipes for centuries, he has witnessed first hand the savage founding of The Cage. He works tirelessly to keep his town neutral and independent from the gang leaders that rule the region and fears entanglements with them. He will not acknowledge the abductions and reports of missing people are real unless he is forced to. Oseanas knows the following, but will never offer this information freely:
 
@@ -202,7 +202,7 @@ Jones’s medical clinic is located within a shoddy scrap built cottage. Jones p
 
 ## Arrival in The Cage
 
-![Cage Handout](/assets/img/handouts/last-grasp-of-the-fallen-the-cage-handout.png)
+![Cage Handout]({{'/assets/img/handouts/last-grasp-of-the-fallen-the-cage-handout.png' | relative_url }})
 
 ### Entering The Cage
 
@@ -214,7 +214,7 @@ A lever can be pulled within the tram car which activates it to move to the oppo
 
 The players will enter The Cage in Fallen Territory, at the Central Marketplace. As the players explore The Cage roll on the Random Encounters below.
 
-![Pipes Map](/assets/img/maps/last-grasp-of-the-fallen-pipes-map.png)
+![Pipes Map]({{'/assets/img/maps/last-grasp-of-the-fallen-pipes-map.png' | relative_url }})
 
 ### Random Encounters
 
@@ -391,7 +391,7 @@ The bones of titans are scattered across Runoa and often act as makeshift fortre
 
 The Fallen have made their residence within this discovered Temple of Enkiem. It was built within the hollow space of a titan’s skull. There are two levels to this temple. On the top level 15 **commoners** of various races are held captive in a cage of bone. **Max Glimmer** is among them. The eyehole, on the second floor, seems to be blocked by a 20ft radius of magical darkness that also blocks all incoming sound.
 
-![Temple Map Ground Floor](/assets/img/maps/last-grasp-of-the-fallen-temple-map-1.png)
+![Temple Map Ground Floor]({{'/assets/img/maps/last-grasp-of-the-fallen-temple-map-1.png' | relative_url }})
 
 #### The Camp
 
@@ -409,7 +409,7 @@ The black marble altar presents a crooked staff made of a black and glass-like m
 
 #### The Temple Top Floor
 
-![Temple Map Top Floor](/assets/img/maps/last-grasp-of-the-fallen-temple-map-2.png)
+![Temple Map Top Floor]({{'/assets/img/maps/last-grasp-of-the-fallen-temple-map-2.png' | relative_url }})
 
 15 **Commoners** reside in a cage on the top floor of this temple, joined by **Josephus Dawes**. If there is combat on the lower floors, Joesphus will join the encounter after 3 rounds of combat at initiative 20. He will welcome the group to reflect on what they have seen in the Pipes and join his cause of burning “the system” down to ashes. If the players refuse, he will turn openly hostile.
 

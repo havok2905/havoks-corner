@@ -20,7 +20,7 @@ Upon entering the cottage, the players will be turned into walking dolls of yarn
 
 ## The Cottage 
 
-![Emboridermancer Map](/assets/img/maps/emboridermancer-map.png)
+![Emboridermancer Map]({{'/assets/img/maps/emboridermancer-map.png' | relative_url }})
 
 ### A: The Porch
 

@@ -9,7 +9,7 @@ The dwarves of Runoa were the ancestral people of the underground, carving out l
 
 ## Sand Dwarves
 
-![Sand Dwarf Example](/assets/img/dwarves-sand-dwarf-ZVDY5VZ4.png)
+![Sand Dwarf Example]({{'/assets/img/dwarves-sand-dwarf-ZVDY5VZ4.png' | relative_url }})
 
 The Sand Dwarves draw their lineage to the original dwarven people that carved cities miles beneath the vast Habash Desert. With scarce resources under the sands, their primary focus was on competition with rival clans for dominance. They hunted the scorpions that roamed the tunnels for food, crafting their exoskeleton into intricate weapons and structural material for their homes.
 
@@ -28,7 +28,7 @@ Having spent so much time underground, the Sand Dwarves had lost much of their e
 
 ## Valley Dwarves
 
-![Valley Dwarf Example](/assets/img/dwarves-valley-dwarf-7F3TMDB2.png)
+![Valley Dwarf Example]({{'/assets/img/dwarves-valley-dwarf-7F3TMDB2.png' | relative_url }})
 
 The Valley Dwarves were the first to leave the tunnels under the sands of Habash, venturing west towards the Scarlet Range Mountains. They established tribes along the riverbeds that sliced between the deep red rock, mining the mountains for material for their new cities. With an abundance of materials to work with, these dwarves began to excel at invention and engineering, taking inspiration by the abandoned clockwork machinery deeper in the mines. They would eventually abandon the rivers in favor of living within vast network of mines, returning again to the darkness that their ancestors once thrived in.
 

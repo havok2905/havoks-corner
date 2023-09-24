@@ -111,7 +111,7 @@ Add any time spent resting to this total.
 
 ## Exploring the Ruins
 
-![Temple Map](/assets/img/maps/ffxiv-map.png)
+![Temple Map]({{'/assets/img/maps/ffxiv-map.png' | relative_url }})
 
 This temple is one in remembrance and denouncement of a people known as the Ascians. They provided much of the power and knowledge that forged Ronka into the thriving powerhouse it was, but also were found to be those that would indirectly cause the Flood of Light.
 

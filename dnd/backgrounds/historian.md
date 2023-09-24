@@ -5,7 +5,7 @@ permalink: /d&d/backgrounds/historian
 parent: d&d/backgrounds
 ---
 
-![The Lore Keeper](/assets/img/the-historian-CNJXVESD.png)
+![The Lore Keeper]({{'/assets/img/the-historian-CNJXVESD.png' | relative_url }})
 
 > We take for granted the study of the arcane and its classifications; Conjuration, Necromancy, Evocation, Abjuration, Transmutation, Divination, Enchantment, and Illusion. We see a split between the divine, primal, and arcane sciences. We assume these lines to be immutable facts of the world. But it wasn't always this way.
 >

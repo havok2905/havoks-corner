@@ -5,7 +5,7 @@ permalink: /d&d/races/serpentes
 parent: d&d/races
 ---
 
-![Serpentes Example](/assets/img/serpentes-example-S32EK3M7.png)
+![Serpentes Example]({{'/assets/img/serpentes-example-S32EK3M7.png' | relative_url }})
 
 > The sun rises over the vast expanse of the Emerald Sea and the grasslands begin to rustle on a breezeless morning. Hands rise from the green canopy, to the sky, in worship of a new dawn and the warmth to melt their frost laden homes.
 >

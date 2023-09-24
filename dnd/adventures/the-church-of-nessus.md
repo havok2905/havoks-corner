@@ -47,7 +47,7 @@ If the players seem lost, the parents suggest to check the church for any inform
 
 ### The Church Ground Floor
 
-![Ground Floor Map](/assets/img/maps/church-of-nessus-map.png)
+![Ground Floor Map]({{'/assets/img/maps/church-of-nessus-map.png' | relative_url }})
 
 #### A: The Worship Hall
 
@@ -101,7 +101,7 @@ The prisoners in this room have been hearing talk of a ritual to summon agents o
 
 ### The Church Basement
 
-![Basement Map](/assets/img/maps/church-of-nessus-basement-map.png)
+![Basement Map]({{'/assets/img/maps/church-of-nessus-basement-map.png' | relative_url }})
 
 #### A: Basement Entrance
 

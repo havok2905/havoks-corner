@@ -5,7 +5,7 @@ permalink: /d&d/races/vidi
 parent: d&d/races
 ---
 
-![Vidi Example](/assets/img/the-vidi-example-JSFJUYJA.png)
+![Vidi Example]({{'/assets/img/the-vidi-example-JSFJUYJA.png' | relative_url }})
 
 The Vidi are a short, dextrous, sea-faring people whose souls have been bound to the various planes of existence. They were the original residents of eastern Runoa, living in relative isolation from the rest of the continent for the majority of their existence, where they spread their influence across the archipelagos and coastal regions of what is now Celu and Dragon’s Spine.
 

@@ -5,7 +5,7 @@ permalink: /d&d/races/duine-spirit
 parent: d&d/races
 ---
 
-![Duine Spirit Example](/assets/img/duine-spirits-example-A3OITYVX.png)
+![Duine Spirit Example]({{'/assets/img/duine-spirits-example-A3OITYVX.png' | relative_url }})
 
 Once obedient servant constructs of the divine, these immortal spirits now roam the continent of Runoa freely. Though many have chosen to blend in with mortal beings, just as many strive to further the spread of worship of their former masters, unable to accept the death of the gods. Despite their independence, Duine Spirits are driven by an instinctual pull towards the domain of their former masters and pulled towards those that exhibit those values. 
 
