@@ -10,7 +10,7 @@ card_image_url: /assets/img/tiles/magic-items-tile.png
   {% for page in site.pages %}
     {% if page.parent == 'd&d/magic-items' %}
       <li>
-        <a class="page-link" href="{{ site.baseurl }}{{ page.url }}">
+        <a class="page-link" href="{{ page.url | relative_url }}">
           {{ page.title }}
         </a>
       </li>
