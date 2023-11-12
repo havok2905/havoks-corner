@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: adventure
 title: The Church of Nessus
 permalink: /d&d/adventures/the-church-of-nessus/
 parent: d&d/adventures

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "How I Build D&D Battle Maps in Photoshop"
-date:   2023-10-14 04:22:44 -0600
-categories: jekyll update
+title: "How I Build D&D Battle Maps in Photoshop"
+date: 2023-10-14 04:22:44 -0600
+tags: ["d&d", "design", "digital-art"]
+excerpt: "Though tools like Dungeondraft are certainly helpful for aspiring game masters, there are moments when one may still want to roll out their own custom built maps in Photoshop."
 ---
 
 Though tools like [Dungeondraft](https://dungeondraft.net/) are certainly helpful for aspiring game masters, there are moments when one may still want to roll out their own custom built maps in Photoshop. This could be for any number of reasons:

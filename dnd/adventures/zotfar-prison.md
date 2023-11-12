@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: adventure
 title: Zotfar Prison
 permalink: /d&d/adventures/zotfar-prison/
 parent: d&d/adventures

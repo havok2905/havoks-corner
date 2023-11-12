@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Planeswalker
 permalink: /d&d/backgrounds/planeswalker/
 parent: d&d/backgrounds

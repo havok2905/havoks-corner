@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Gunsmith
 permalink: /d&d/backgrounds/gunsmith/
 parent: d&d/backgrounds

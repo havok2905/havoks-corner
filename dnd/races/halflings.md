@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Halflings
 permalink: /d&d/races/halflings/
 parent: d&d/races

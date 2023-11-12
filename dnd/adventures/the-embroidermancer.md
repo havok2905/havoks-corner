@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: adventure
 title: The Embroidermancer
 permalink: /d&d/adventures/the-embroidermancer/
 parent: d&d/adventures

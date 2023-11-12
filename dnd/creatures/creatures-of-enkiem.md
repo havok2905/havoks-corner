@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Creatures of Enkiem
 permalink: /d&d/creatures/creatures-of-enkiem/
 parent: d&d/creatures

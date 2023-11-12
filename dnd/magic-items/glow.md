@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Glow
 permalink: /d&d/magic-items/glow/
 parent: d&d/magic-items

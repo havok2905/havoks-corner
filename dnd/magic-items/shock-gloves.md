@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Shock Gloves
 permalink: /d&d/magic-items/shock-gloves/
 parent: d&d/magic-items

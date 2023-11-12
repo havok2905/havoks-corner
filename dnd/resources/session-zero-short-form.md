@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Session Zero - Short Form
 permalink: /d&d/resources/session-zero-short-form/
 parent: d&d/resources

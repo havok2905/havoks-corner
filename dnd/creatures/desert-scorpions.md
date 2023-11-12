@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Desert Scorpions
 permalink: /d&d/creatures/desert-scorpions/
 parent: d&d/creatures

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Vidi
 permalink: /d&d/races/vidi/
 parent: d&d/races

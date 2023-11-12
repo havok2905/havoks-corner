@@ -1,9 +1,21 @@
-<header class="header" role="banner">
-  <a rel="author" href="{{'/' | relative_url}}">
-    {{ site.title | escape }}
-  </a>
+<header role="banner">
+  <h1>
+    <a rel="author" href="{{'/' | relative_url}}">
+      {{ site.title | escape }}
+    </a>
+  </h1>
   <nav>
-    <a href="{{'/blog' | relative_url}}">Blog</a>
-    <a href="{{'/d&d' | relative_url}}">D&D</a>
+    <ul>
+      <li>
+        <a href="{{'/blog' | relative_url}}">
+          Blog
+        </a>
+      </li>
+      <li>
+        <a href="{{'/d&d' | relative_url}}">
+          D&D
+        </a>
+      </li>
+    </ul>
   </nav>
 </header>

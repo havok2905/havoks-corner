@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Dwarves
 permalink: /d&d/races/dwarves/
 parent: d&d/races

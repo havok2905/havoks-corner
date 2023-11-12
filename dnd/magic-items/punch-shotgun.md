@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Punch Shotgun
 permalink: /d&d/magic-items/punch-shotgun/
 parent: d&d/magic-items

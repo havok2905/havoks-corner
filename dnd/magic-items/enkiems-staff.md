@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Enkiem's Staff
 permalink: /d&d/magic-items/enkiems-staff/
 parent: d&d/magic-items

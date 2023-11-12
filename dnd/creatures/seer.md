@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: The Seers
 permalink: /d&d/creatures/the-seers/
 parent: d&d/creatures

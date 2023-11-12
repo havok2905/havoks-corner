@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Cartridge Blade
 permalink: /d&d/magic-items/cartridge-blade/
 parent: d&d/magic-items

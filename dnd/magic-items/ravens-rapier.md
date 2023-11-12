@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Raven's Rapier
 permalink: /d&d/magic-items/ravens-rapier/
 parent: d&d/magic-items

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Marshmallow Capsule
 permalink: /d&d/magic-items/marshmallow-capsule/
 parent: d&d/magic-items

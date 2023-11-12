@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Historian
 permalink: /d&d/backgrounds/historian/
 parent: d&d/backgrounds

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: adventure
 title: Last Grasps of the Fallen
 permalink: /d&d/adventures/last-grasps-of-the-fallen/
 parent: d&d/adventures

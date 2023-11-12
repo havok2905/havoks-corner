@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: adventure
 title: Burning of the Greatwood
 permalink: /d&d/adventures/burning-of-the-greatwood/
 parent: d&d/adventures

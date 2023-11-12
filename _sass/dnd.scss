@@ -1,0 +1,83 @@
+/** DND */
+
+.item-block,
+.stat-block {
+  background: url($baseurl + "/assets/img/stat-block-top-texture.png"), url($baseurl + "/assets/img/paper-texture.png");
+  background-color: #F8F2D5;
+  background-repeat: no-repeat, repeat;
+  border: 1px solid #d4d0ce;
+  box-shadow: 0 0 6px #979AA4;
+  color: #222222;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  margin: 16px 0;
+  padding: 16px;
+  
+  h2 {
+    color: #822000;
+    font-family: Lora, serif;
+    font-size: 2.2rem;
+    line-height: 1.2;
+    margin: 0;
+  }
+
+  h3 {
+    border-bottom:  1px solid #822000;
+    color: #822000;
+    font-family: Lora, serif;
+    font-size: 1.5rem;
+    line-height: 1.6;
+    margin-bottom: 16px;
+    margin-top: 20px;
+    width: 100%;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  p {
+    margin: 8px 0;
+  }
+
+  strong {
+    font-weight: 700;
+  }
+
+  ul {
+    list-style-type: disc;
+    margin: 8px 0 8px 30px;
+  }
+
+  li {
+    margin: 4px 0;
+  }
+}
+
+.stat-block-array {
+  color: #822000;
+  display: flex;
+  justify-content: space-between;
+}
+
+.stat-block-array-item {
+  color: #822000;
+  text-align: center;
+
+  p {
+    margin: 0;
+  }
+}
+
+.stat-block-attribute {
+  color: #822000;
+}
+
+.stat-block-divider {
+  margin: 10px 0;
+}
+
+.stat-block-size-type-alignment {
+  display: block;
+  margin-bottom: 16px;
+}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Chakram
 permalink: /d&d/magic-items/chakram/
 parent: d&d/magic-items

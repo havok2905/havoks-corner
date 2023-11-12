@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: Spike
 permalink: /d&d/magic-items/spike/
 parent: d&d/magic-items
