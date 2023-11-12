@@ -1,5 +1,15 @@
 /** DND */
 
+@font-face {
+  font-family: 'Lora';
+  src: url($baseurl + "/assets/fonts/Lora-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url($baseurl + "/assets/fonts/Montserrat-VariableFont_wght.ttf");
+}
+
 .item-block,
 .stat-block {
   background: url($baseurl + "/assets/img/stat-block-top-texture.png"), url($baseurl + "/assets/img/paper-texture.png");
@@ -15,7 +25,7 @@
   
   h2 {
     color: #822000;
-    font-family: Lora, serif;
+    font-family: 'Lora', serif;
     font-size: 2.2rem;
     line-height: 1.2;
     margin: 0;
