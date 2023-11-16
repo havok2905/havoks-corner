@@ -51,16 +51,18 @@
 
   /* SPACING */
 
+  --havok-design-spacing-0: 0.5rem;
+  --havok-design-spacing-1: 1rem;
+  --havok-design-spacing-2: 2rem;
+  --havok-design-spacing-3: 3rem;
   --havok-design-spacing-left-list: 1.75rem;
-  --havok-design-spacing-double: 2rem;
-  --havok-design-spacing-half: 0.5rem;
-  --havok-design-spacing-standard: 1rem;
 
   /* BORDERS */
 
-  --havok-design-border-width-huge: 1rem;
+  --havok-design-border-width-huge: 0.5rem;
 
   /* SHADOW */
+
   --havok-design-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
 }
 
@@ -167,42 +169,42 @@ a:hover {
 }
 
 dl {
-  margin-bottom: var(--havok-design-spacing-double);
+  margin-bottom: var(--havok-design-spacing-2);
   margin-left: var(--havok-design-spacing-left-list); 
-  margin-top: var(--havok-design-spacing-double);
+  margin-top: var(--havok-design-spacing-2);
 }
 
 dl div {
-  margin-bottom: var(--havok-design-spacing-standard);
+  margin-bottom: var(--havok-design-spacing-1);
 }
 
 dd {
   line-height: 1.5;
-  margin-bottom: var(--havok-design-spacing-standard);
+  margin-bottom: var(--havok-design-spacing-1);
 }
 
 dt {
   font-weight: var(--havok-design-font-weight-heavy);
-  margin-bottom: var(--havok-design-spacing-standard);
+  margin-bottom: var(--havok-design-spacing-1);
 }
 
 ol {
   list-style-type: decimal;
-  margin-bottom: var(--havok-design-spacing-double);
-  margin-top: var(--havok-design-spacing-double);
+  margin-bottom: var(--havok-design-spacing-2);
+  margin-top: var(--havok-design-spacing-2);
   margin-left: var(--havok-design-spacing-left-list);
 }
 
 ul {
   list-style-type: '— ';
-  margin-bottom: var(--havok-design-spacing-double);
-  margin-top: var(--havok-design-spacing-double);
+  margin-bottom: var(--havok-design-spacing-2);
+  margin-top: var(--havok-design-spacing-2);
   margin-left: var(--havok-design-spacing-left-list); 
 }
 
 li {
   line-height: 1.5;
-  margin-bottom: var(--havok-design-spacing-half);
+  margin-bottom: var(--havok-design-spacing-0);
 }
 
 article {
@@ -210,7 +212,7 @@ article {
   border-radius: 0.5rem;
   box-sizing: border-box;
   color: var(--havok-design-color-black-1);
-  padding: var(--havok-design-spacing-double);
+  padding: var(--havok-design-spacing-3);
 }
 
 blockquote {
@@ -219,9 +221,9 @@ blockquote {
   box-shadow: var(--havok-design-box-shadow);
   box-sizing: border-box;
   color: var(--havok-design-color-white-0);
-  margin-bottom: var(--havok-design-spacing-standard);
-  margin-top: var(--havok-design-spacing-standard);
-  padding: var(--havok-design-spacing-standard);
+  margin-bottom: var(--havok-design-spacing-1);
+  margin-top: var(--havok-design-spacing-1);
+  padding: var(--havok-design-spacing-1);
 }
 
 blockquote cite {
@@ -234,7 +236,7 @@ blockquote h1 {
 }
 
 blockquote p:last-of-type {
-  margin-bottom: var(--havok-design-spacing-double);
+  margin-bottom: var(--havok-design-spacing-2);
 }
 
 code {
@@ -249,7 +251,7 @@ header {
   height: 4rem;
   justify-content: space-between;
   margin-bottom: 4rem;
-  padding: 0 var(--havok-design-spacing-double);
+  padding: 0 var(--havok-design-spacing-2);
 }
 
 header h1 {
@@ -279,7 +281,7 @@ header nav ul li a {
 }
 
 header nav ul li:not(:last-of-type) {
-  margin-right: var(--havok-design-spacing-double);
+  margin-right: var(--havok-design-spacing-2);
 }
 
 table {
@@ -289,14 +291,14 @@ table {
   box-shadow: var(--havok-design-box-shadow);
   color: var(--havok-design-color-white-0);
   font-size: var(--havok-design-font-size-body-small);
-  margin: var(--havok-design-spacing-double) 0;
+  margin: var(--havok-design-spacing-2) 0;
   width: 100%;
 }
 
 td {
   background-color: var(--havok-design-color-black-1);
   border: solid 1px var(--havok-design-color-black-05);
-  padding: var(--havok-design-spacing-standard);
+  padding: var(--havok-design-spacing-1);
 }
 
 td:first-of-type {
@@ -311,7 +313,7 @@ th {
   background-color: var(--havok-design-color-black-05);
   border: solid 1px var(--havok-design-color-black-05);
   font-weight: var(--havok-design-font-weight-heavy);
-  padding: var(--havok-design-spacing-standard);
+  padding: var(--havok-design-spacing-1);
   text-align: left;
 }
 
@@ -382,7 +384,7 @@ tr:last-of-type td:last-of-type{
   font-size: var(--havok-design-font-size-body);
   height: 60px;
   line-height: 56px;
-  margin: var(--havok-design-spacing-standard) 0;
+  margin: var(--havok-design-spacing-1) 0;
   text-align: center;
   transition: 0.2s;
   width: 300px;
@@ -418,18 +420,18 @@ tr:last-of-type td:last-of-type{
 .havok-design-container {
   margin: 0 auto;
   max-width: 900px;
-  padding: var(--havok-design-spacing-standard);
+  padding: var(--havok-design-spacing-1);
 }
 
 .havok-design-container img {
-  margin: var(--havok-design-spacing-double) 0;
+  margin: var(--havok-design-spacing-2) 0;
   max-width: 100%;
 }
 
 .havok-design-blog-card {
   box-shadow: var(--havok-design-box-shadow);
-  margin-bottom: var(--havok-design-spacing-double);
-  margin-top: var(--havok-design-spacing-double);
+  margin-bottom: var(--havok-design-spacing-2);
+  margin-top: var(--havok-design-spacing-2);
 }
 
 .havok-design-blog-card img {
@@ -442,7 +444,7 @@ tr:last-of-type td:last-of-type{
   background-color: var(--havok-design-color-black-1);
   box-sizing: border-box;
   color: var(--havok-design-color-white-0);
-  padding: var(--havok-design-spacing-standard);
+  padding: var(--havok-design-spacing-1);
 }
 
 .havok-design-blog-card-content h2 a {
@@ -453,23 +455,24 @@ tr:last-of-type td:last-of-type{
 .havok-design-blog-card-content ul {
   display: flex;
   list-style-type: none;
-  margin: 0 0 var(--havok-design-spacing-standard) 0;
+  margin: 0 0 var(--havok-design-spacing-1) 0;
 }
 
 .havok-design-blog-card-content ul li {
   color: var(--havok-design-color-red-1);
   font-family: var(--havok-design-font-family-title);
-  margin: 0 var(--havok-design-spacing-standard) 0 0;
+  margin: 0 var(--havok-design-spacing-1) 0 0;
 }
 
 .havok-design-blog-card-date {
   font-family: var(--havok-design-font-family-title);
-  margin-top: var(--havok-design-spacing-double);
+  margin-top: var(--havok-design-spacing-2);
   margin-bottom: 0;
 }
 
 .havok-design-container .havok-design-logo {
-  max-width: 300px;;
+  margin: 0;
+  max-width: 300px;
 }
 
 .havok-design-homepage {
@@ -478,6 +481,7 @@ tr:last-of-type td:last-of-type{
 
 .havok-design-tile-grid {
   display: grid;
+  font-family: var(--havok-design-font-family-title);
   grid-template-columns: repeat(auto-fill, 200px);
   grid-gap: 10px;
   justify-content: space-between;

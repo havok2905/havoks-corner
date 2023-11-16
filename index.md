@@ -16,6 +16,6 @@ permalink: /
     Welcome to my corner of the internet!
   </h1>
   <p>
-    I'm Havok; A dungeon master, software engineer, writer, games enthusiast, and general maker of things.
+    I'm Havok - A dungeon master, software engineer, writer, games enthusiast, and general maker of things.
   </p>
 </div>

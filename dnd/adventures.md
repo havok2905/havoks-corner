@@ -6,14 +6,16 @@ parent: d&d
 card_image_url: /assets/img/tiles/adventures-tile.png
 ---
 
-<ul>
-  {% for page in site.pages %}
-    {% if page.parent == 'd&d/adventures' %}
-      <li>
-        <a class="page-link" href="{{ page.url | relative_url }}">
+{% for page in site.pages %}
+{% if page.parent == 'd&d/adventures' %}
+  <div class="havok-design-blog-card">
+    <div class="havok-design-blog-card-content">
+      <h2>
+        <a href="{{ page.url | relative_url }}">
           {{ page.title }}
         </a>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+      </h2>
+    </div>
+  </div>
+{% endif %}
+{% endfor %}
