@@ -31,9 +31,9 @@ Before you start building a dungeon, you must first define a few variables for y
 The first thing you need to do is set up Photoshop to allow us to more easily work with gridded maps. Follow these steps:
 
 1. Create a new 1000px X 1000px Photoshop document
-2. Navigate to `Preferences -> Guides, Grids, & Slices`. Set `Gridline Every` to 50px and `Subdivsions` to 1. Click Ok.
-3. In the top navbar, click on `View -> Show` and toggle on `Grid`.
-4. In the top navbar, click on `View -> Snap To` and toggle on `Grid`.
+2. Navigate to Preferences -> Guides, Grids, & Slices. Set Gridline Every to 50px and Subdivsions to 1. Click Ok.
+3. In the top navbar, click on View -> Show and toggle on Grid.
+4. In the top navbar, click on View -> Snap To and toggle on Grid.
 
 ![Set Grid Lines]({{'/assets/img/posts/dnd-map/dnd-map-1.png' | relative_url }})
 
@@ -55,13 +55,13 @@ Create a new layer and name it "Walls". Pick a new color and select the brush to
 
 Now that you have a dungeon layout outlined, the next step is to replace these block colors with some detailed textures.
 
-Open the tile image below in Photoshop. Select all, and then click `Edit -> Define Pattern` in the top navbar. Give the pattern a recognizable name and click Ok.
+Open the tile image below in Photoshop. Select all, and then click Edit -> Define Pattern in the top navbar. Give the pattern a recognizable name and click Ok.
 
 ![Walls]({{'/assets/img/posts/dnd-map/dnd-map-tiles.png' | relative_url }})
 
 ![Define Pattern]({{'/assets/img/posts/dnd-map/dnd-map-5.png' | relative_url }})
 
-Go back to your map and double click on the "Floor" layer to open up the `Layer Style` window. Toggle on `Pattern Overlay` and select the newly defined pattern from the options.
+Go back to your map and double click on the "Floor" layer to open up the Layer Style window. Toggle on Pattern Overlay and select the newly defined pattern from the options.
 
 ![Apply Floor Pattern]({{'/assets/img/posts/dnd-map/dnd-map-6.png' | relative_url }})
 
@@ -69,7 +69,7 @@ Repeat the same steps for the "Walls" layer. Feel free to play around with diffe
 
 ![Apply Wall Pattern]({{'/assets/img/posts/dnd-map/dnd-map-7.png' | relative_url }})
 
-The way it is now, the dungeon looks a tad flat. It's hard to distinguish between the walls and floor at first glance. Later on you will paint in more shadow. For a quick base layer to get you started though, open the `Layer Style` window for the "Walls" layer. Toggle on drop shadow and play around with the values until it looks right to you.
+The way it is now, the dungeon looks a tad flat. It's hard to distinguish between the walls and floor at first glance. Later on you will paint in more shadow. For a quick base layer to get you started though, open the Layer Style window for the "Walls" layer. Toggle on drop shadow and play around with the values until it looks right to you.
 
 ![Add Basic Shadows]({{'/assets/img/posts/dnd-map/dnd-map-8.png' | relative_url }})
 
@@ -77,17 +77,17 @@ The way it is now, the dungeon looks a tad flat. It's hard to distinguish betwee
 
 For a simple game, you could call this map complete. But, you could certainly keep pushing the map further with some custom lighting and shadow.
 
-To better see your map, you may toggle off the display of the grid lines by clicking `View -> Show` and toggling off `Grid` in the navbar. You will not need the grid lines much from this point forward.
+To better see your map, you may toggle off the display of the grid lines by clicking View -> Show and toggling off Grid in the navbar. You will not need the grid lines much from this point forward.
 
-For starters, I like to apply a simple gradient to the entire image. Create a new layer and call it "Gradient". Make sure this new layer is on top of the previous layers. Select the `Gradient` tool and choose a subtle set of colors to your liking. I'm going with a set of dark faded blues to simulate a night scene. Starting at the top corner of the image, click and drop to the opposite corner to apply the gradient.
+For starters, I like to apply a simple gradient to the entire image. Create a new layer and call it "Gradient". Make sure this new layer is on top of the previous layers. Select the Gradient tool and choose a subtle set of colors to your liking. I'm going with a set of dark faded blues to simulate a night scene. Starting at the top corner of the image, click and drop to the opposite corner to apply the gradient.
 
 ![Apply Gradient]({{'/assets/img/posts/dnd-map/dnd-map-9.png' | relative_url }})
 
-Now set the `Blending Mode` for the "Gradient" layer to `Soft Light`.
+Now set the Blending Mode for the "Gradient" layer to Soft Light.
 
 ![Blending Mode Gradient]({{'/assets/img/posts/dnd-map/dnd-map-10.png' | relative_url }})
 
-Next, let's deepen some of these shadows. Create a new layer called "Shadows" and place it between the "Floor" and "Walls" layers. Select the `Brush` tool and set the `Color` to black, `Hardness` to 0%, the `Size` to 100, and the `Opacity` to 25%. With the edge of the brush, paint along the walls and corners to deepen the shadow.
+Next, let's deepen some of these shadows. Create a new layer called "Shadows" and place it between the "Floor" and "Walls" layers. Select the Brush tool and set the Color to black, Hardness to 0%, the Size to 100, and the Opacity to 25%. With the edge of the brush, paint along the walls and corners to deepen the shadow.
 
 ![Deepen Shadows]({{'/assets/img/posts/dnd-map/dnd-map-11.png' | relative_url }})
 
@@ -103,7 +103,7 @@ On the "Light" layer paint in some light using the same technique we used for de
 
 ![Paint the Light]({{'/assets/img/posts/dnd-map/dnd-map-14.png' | relative_url }})
 
-Set the `Blending Mode` of the "Light" layer to `Hard Light`. If the lighting looks off, delete some of the lighting and clean it up as you like.
+Set the Blending Mode of the "Light" layer to Hard Light. If the lighting looks off, delete some of the lighting and clean it up as you like.
 
 ![Paint the Light]({{'/assets/img/posts/dnd-map/dnd-map-15.png' | relative_url }})
 
