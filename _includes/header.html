@@ -1,21 +1,17 @@
 <header role="banner">
-  <h1>
+  <nav class="havok-design-system-nav">
     <a rel="author" href="{{'/' | relative_url}}">
-      {{ site.title | escape }}
+      <h1>
+        {{ site.title | escape }}
+      </h1>
     </a>
-  </h1>
-  <nav>
-    <ul>
-      <li>
-        <a href="{{'/blog' | relative_url}}">
-          Blog
-        </a>
-      </li>
-      <li>
-        <a href="{{'/d&d' | relative_url}}">
-          D&D
-        </a>
-      </li>
-    </ul>
+    <div>
+      <a href="{{'/blog' | relative_url}}">
+        Blog
+      </a>
+      <a href="{{'/d&d' | relative_url}}">
+        D&D
+      </a>
+    </div>
   </nav>
 </header>

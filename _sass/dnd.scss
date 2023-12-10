@@ -1,22 +1,10 @@
-/** DND */
-
-@font-face {
-  font-family: 'Lora';
-  src: url($baseurl + "/assets/fonts/Lora-VariableFont_wght.ttf");
-}
-
-@font-face {
-  font-family: 'Montserrat';
-  src: url($baseurl + "/assets/fonts/Montserrat-VariableFont_wght.ttf");
-}
-
 .item-block,
 .stat-block {
   background: url($baseurl + "/assets/img/stat-block-top-texture.png"), url($baseurl + "/assets/img/paper-texture.png");
   background-color: #F8F2D5;
   background-repeat: no-repeat, repeat;
   border: 1px solid #d4d0ce;
-  box-shadow: 0 0 6px #979AA4;
+  box-shadow: 0 0 6px #000000;
   color: #222222;
   font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
